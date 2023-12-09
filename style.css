@@ -14,8 +14,8 @@ body{
     background: rgb(52, 52, 52);
     background: repeating-linear-gradient(45deg, rgb(43, 43, 43), rgb(68, 68, 68) 40dvw, rgb(38, 37, 37) 5dvi);
     margin: auto;
+    text-align: center;
 }
-
 /* navbar content */
 .navbar{
     width: 100dvw;
@@ -58,6 +58,14 @@ h2{
     justify-content: center;
     gap: 2rem;
     flex-wrap: wrap;
+}
+
+
+.h{
+    color: antiquewhite;
+    top: 25px;
+    position: relative;
+    color: aliceblue;
 }
 
 
