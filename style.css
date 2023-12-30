@@ -46,12 +46,12 @@ h2{
 }
 /* where the main container is */
 .content{
-    background-color: rgba(39, 27, 12, 0.468);
+    /* background-color: rgba(39, 27, 12, 0.468); */
     margin: 8dvi;
     padding: 5dvi;
     border-radius: 2dvi 10dvi;
-    backdrop-filter: blur(1dvi);
-    -webkit-backdrop-filter: blur(.5dvi); 
+    /* backdrop-filter: blur(1dvi);
+    -webkit-backdrop-filter: blur(.5dvi);  */
     color: rgb(180, 180, 180);
     display: flex;
     align-items: center;
